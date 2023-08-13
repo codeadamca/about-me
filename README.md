@@ -2,7 +2,7 @@
 
 A basic example of deployed HTML using GitHub pages.
 
-> This repo is avialble at
+> This repo is avialble at  
 > [https://codeadamca.github.io/about-me/](https://codeadamca.github.io/about-me/)
 
 ---
