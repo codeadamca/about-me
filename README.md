@@ -7,6 +7,14 @@ A basic example of deployed HTML using GitHub pages.
 
 ---
 
+## Project Stack
+
+This project uses vanilla [HTML](https://www.w3.org/html/) and [CSS](https://www.w3.org/Style/CSS/Overview.en.html).
+
+<img src="https://console.codeadam.ca/api/image/html" width="60"> <img src="https://console.codeadam.ca/api/image/css" width="60"> <img src="https://console.codeadam.ca/api/image/github" width="60">
+
+---
+
 ## Repo Resources
 
 - [GitHub Pages](https://pages.github.com/)
